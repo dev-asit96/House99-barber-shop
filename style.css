@@ -423,8 +423,10 @@ hr {
     font-family: Poppins;
   }
   .logo {
-    padding: 12px;
+    padding: 0px;
     justify-items: flex-start;
+    height: 108px;
+    width: 31%
   }
 
   #banner p {
